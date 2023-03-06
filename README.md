@@ -6,3 +6,4 @@ Hi. I'm Dan, an aspiring developer with the School of Code.
 - 📫 How to reach me: Twitter @_danben1
 - ⚡ Fun fact: Last year I visited 25 countries on a 7-month trip! 
 
+### Title 2
